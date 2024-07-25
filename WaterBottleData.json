@@ -1,0 +1,183 @@
+{
+    "brands": [
+        {
+            "Id": 1,
+            "Name": "Hydro Flask"
+        },
+        {
+            "Id": 2,
+            "Name": "Nalgene"
+        },
+        {
+            "Id": 3,
+            "Name": "CamelBak"
+        }
+    ],
+    "products": [
+        {
+            "Id": "1",
+            "BrandId": 1,
+            "ProductName": "Hydro Flask 32 oz Wide Mouth",
+            "GraphicName": "hydro_flask_32oz.jpg",
+            "CostPrice": 29.95,
+            "MSRP": 39.95,
+            "QtyOnHand": 100,
+            "QtyOnBackOrder": 50,
+            "Description": "Stainless steel, vacuum insulated water bottle to keep drinks cold for up to 24 hours."
+        },
+        {
+            "Id": "2",
+            "BrandId": 1,
+            "ProductName": "Hydro Flask 21 oz Standard Mouth",
+            "GraphicName": "hydro_flask_21oz.jpg",
+            "CostPrice": 25.95,
+            "MSRP": 35.95,
+            "QtyOnHand": 150,
+            "QtyOnBackOrder": 30,
+            "Description": "Durable stainless steel water bottle with a standard mouth opening."
+        },
+        {
+            "Id": "3",
+            "BrandId": 1,
+            "ProductName": "Hydro Flask 40 oz Wide Mouth",
+            "GraphicName": "hydro_flask_40oz.jpg",
+            "CostPrice": 32.95,
+            "MSRP": 42.95,
+            "QtyOnHand": 80,
+            "QtyOnBackOrder": 20,
+            "Description": "Large stainless steel, vacuum insulated water bottle for keeping drinks cold."
+        },
+        {
+            "Id": "4",
+            "BrandId": 1,
+            "ProductName": "Hydro Flask 12 oz Kids Bottle",
+            "GraphicName": "hydro_flask_kids_12oz.jpg",
+            "CostPrice": 22.95,
+            "MSRP": 32.95,
+            "QtyOnHand": 60,
+            "QtyOnBackOrder": 15,
+            "Description": "Durable, stainless steel water bottle designed for kids."
+        },
+        {
+            "Id": "5",
+            "BrandId": 1,
+            "ProductName": "Hydro Flask 18 oz Standard Mouth",
+            "GraphicName": "hydro_flask_18oz.jpg",
+            "CostPrice": 27.95,
+            "MSRP": 37.95,
+            "QtyOnHand": 120,
+            "QtyOnBackOrder": 25,
+            "Description": "Mid-sized stainless steel water bottle with standard mouth opening."
+        },
+        {
+            "Id": "6",
+            "BrandId": 2,
+            "ProductName": "Nalgene 32 oz Wide Mouth",
+            "GraphicName": "nalgene_32oz.jpg",
+            "CostPrice": 9.95,
+            "MSRP": 14.95,
+            "QtyOnHand": 200,
+            "QtyOnBackOrder": 0,
+            "Description": "BPA-free plastic water bottle with a wide mouth for easy filling and cleaning."
+        },
+        {
+            "Id": "7",
+            "BrandId": 2,
+            "ProductName": "Nalgene 16 oz Narrow Mouth",
+            "GraphicName": "nalgene_16oz.jpg",
+            "CostPrice": 8.95,
+            "MSRP": 12.95,
+            "QtyOnHand": 120,
+            "QtyOnBackOrder": 20,
+            "Description": "Compact BPA-free water bottle with a narrow mouth for easy drinking."
+        },
+        {
+            "Id": "8",
+            "BrandId": 2,
+            "ProductName": "Nalgene 48 oz Wide Mouth",
+            "GraphicName": "nalgene_48oz.jpg",
+            "CostPrice": 10.95,
+            "MSRP": 15.95,
+            "QtyOnHand": 80,
+            "QtyOnBackOrder": 10,
+            "Description": "Large BPA-free water bottle with a wide mouth for maximum capacity."
+        },
+        {
+            "Id": "9",
+            "BrandId": 2,
+            "ProductName": "Nalgene On The Fly 24 oz",
+            "GraphicName": "nalgene_onthefly_24oz.jpg",
+            "CostPrice": 11.95,
+            "MSRP": 17.95,
+            "QtyOnHand": 90,
+            "QtyOnBackOrder": 15,
+            "Description": "Portable BPA-free water bottle with a one-handed opening mechanism."
+        },
+        {
+            "Id": "10",
+            "BrandId": 2,
+            "ProductName": "Nalgene MultiDrink 20 oz",
+            "GraphicName": "nalgene_multidrink_20oz.jpg",
+            "CostPrice": 12.95,
+            "MSRP": 18.95,
+            "QtyOnHand": 110,
+            "QtyOnBackOrder": 25,
+            "Description": "Versatile BPA-free water bottle with multiple drinking options."
+        },
+        {
+            "Id": "11",
+            "BrandId": 3,
+            "ProductName": "CamelBak Eddy+ 25 oz",
+            "GraphicName": "camelbak_eddy_25oz.jpg",
+            "CostPrice": 12.95,
+            "MSRP": 19.95,
+            "QtyOnHand": 80,
+            "QtyOnBackOrder": 40,
+            "Description": "Durable water bottle with a built-in straw for easy sipping on the go."
+        },
+        {
+            "Id": "12",
+            "BrandId": 3,
+            "ProductName": "CamelBak Chute Mag 32 oz",
+            "GraphicName": "camelbak_chute_32oz.jpg",
+            "CostPrice": 14.95,
+            "MSRP": 21.95,
+            "QtyOnHand": 90,
+            "QtyOnBackOrder": 10,
+            "Description": "Leak-proof water bottle with a magnetic top for easy drinking."
+        },
+        {
+            "Id": "13",
+            "BrandId": 3,
+            "ProductName": "CamelBak Podium 24 oz",
+            "GraphicName": "camelbak_podium_24oz.jpg",
+            "CostPrice": 10.95,
+            "MSRP": 15.95,
+            "QtyOnHand": 100,
+            "QtyOnBackOrder": 20,
+            "Description": "High-flow, self-sealing water bottle perfect for sports."
+        },
+        {
+            "Id": "14",
+            "BrandId": 3,
+            "ProductName": "CamelBak Carry Cap 25 oz",
+            "GraphicName": "camelbak_carrycap_25oz.jpg",
+            "CostPrice": 11.95,
+            "MSRP": 17.95,
+            "QtyOnHand": 70,
+            "QtyOnBackOrder": 30,
+            "Description": "Durable water bottle with a carry cap for easy transport."
+        },
+        {
+            "Id": "15",
+            "BrandId": 3,
+            "ProductName": "CamelBak Quick Stow Flask 17 oz",
+            "GraphicName": "camelbak_quickstow_17oz.jpg",
+            "CostPrice": 15.95,
+            "MSRP": 22.95,
+            "QtyOnHand": 60,
+            "QtyOnBackOrder": 20,
+            "Description": "Collapsible, soft water bottle for easy storage and transport."
+        }
+    ]
+}
