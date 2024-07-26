@@ -1,19 +1,4 @@
-{
-    "brands": [
-        {
-            "Id": 1,
-            "Name": "Hydro Flask"
-        },
-        {
-            "Id": 2,
-            "Name": "Nalgene"
-        },
-        {
-            "Id": 3,
-            "Name": "CamelBak"
-        }
-    ],
-    "products": [
+[
         {
             "Id": "1",
             "BrandId": 1,
@@ -180,4 +165,3 @@
             "Description": "Collapsible, soft water bottle for easy storage and transport."
         }
     ]
-}
