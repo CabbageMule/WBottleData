@@ -138,15 +138,5 @@
         "QTYONBACKORDER": 30,
         "DESCRIPTION": "Durable water bottle with a carry cap for easy transport.",
         "BRAND": "CamelBak"
-    },
-    {
-        "PRODUCTNAME": "CamelBak Quick Stow Flask 17 oz",
-        "GRAPHICNAME": "TEST",
-        "COSTPRICE": 12.95,
-        "MSRP": 18.95,
-        "QTYONHAND": 110,
-        "QTYONBACKORDER": 25,
-        "DESCRIPTION": "Compact and collapsible water bottle for on-the-go hydration.",
-        "BRAND": "CamelBak"
     }
 ]
