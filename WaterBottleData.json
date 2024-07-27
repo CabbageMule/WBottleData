@@ -7,7 +7,7 @@
         "QtyOnHand": 100,
         "QtyOnBackOrder": 50,
         "Description": "Stainless steel, vacuum insulated water bottle to keep drinks cold for up to 24 hours.",
-        "Brand": "Hydro Flask"
+        "Brand": "HydroFlask"
     },
     {
         "ProductName": "Hydro Flask 21 oz Standard Mouth",
@@ -17,7 +17,7 @@
         "QtyOnHand": 150,
         "QtyOnBackOrder": 30,
         "Description": "Durable stainless steel water bottle with a standard mouth opening.",
-        "Brand": "Hydro Flask"
+        "Brand": "HydroFlask"
     },
     {
         "ProductName": "Hydro Flask 40 oz Wide Mouth",
@@ -27,7 +27,7 @@
         "QtyOnHand": 80,
         "QtyOnBackOrder": 20,
         "Description": "Large stainless steel, vacuum insulated water bottle for keeping drinks cold.",
-        "Brand": "Hydro Flask"
+        "Brand": "HydroFlask"
     },
     {
         "ProductName": "Hydro Flask 12 oz Kids Bottle",
@@ -37,7 +37,7 @@
         "QtyOnHand": 60,
         "QtyOnBackOrder": 15,
         "Description": "Durable, stainless steel water bottle designed for kids.",
-        "Brand": "Hydro Flask"
+        "Brand": "HydroFlask"
     },
     {
         "ProductName": "Hydro Flask 18 oz Standard Mouth",
@@ -47,7 +47,7 @@
         "QtyOnHand": 120,
         "QtyOnBackOrder": 25,
         "Description": "Mid-sized stainless steel water bottle with standard mouth opening.",
-        "Brand": "Hydro Flask"
+        "Brand": "HydroFlask"
     },
     {
         "ProductName": "Nalgene 32 oz Wide Mouth",
