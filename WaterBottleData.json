@@ -1,7 +1,7 @@
 [
     {
         "ProductName": "Hydro Flask 32 oz Wide Mouth",
-        "GraphicName": "hydro_flask_32oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 29.95,
         "MSRP": 39.95,
         "QtyOnHand": 100,
@@ -11,7 +11,7 @@
     },
     {
         "ProductName": "Hydro Flask 21 oz Standard Mouth",
-        "GraphicName": "hydro_flask_21oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 25.95,
         "MSRP": 35.95,
         "QtyOnHand": 150,
@@ -21,7 +21,7 @@
     },
     {
         "ProductName": "Hydro Flask 40 oz Wide Mouth",
-        "GraphicName": "hydro_flask_40oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 32.95,
         "MSRP": 42.95,
         "QtyOnHand": 80,
@@ -31,7 +31,7 @@
     },
     {
         "ProductName": "Hydro Flask 12 oz Kids Bottle",
-        "GraphicName": "hydro_flask_kids_12oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 22.95,
         "MSRP": 32.95,
         "QtyOnHand": 60,
@@ -41,7 +41,7 @@
     },
     {
         "ProductName": "Hydro Flask 18 oz Standard Mouth",
-        "GraphicName": "hydro_flask_18oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 27.95,
         "MSRP": 37.95,
         "QtyOnHand": 120,
@@ -51,7 +51,7 @@
     },
     {
         "ProductName": "Nalgene 32 oz Wide Mouth",
-        "GraphicName": "nalgene_32oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 9.95,
         "MSRP": 14.95,
         "QtyOnHand": 200,
@@ -61,7 +61,7 @@
     },
     {
         "ProductName": "Nalgene 16 oz Narrow Mouth",
-        "GraphicName": "nalgene_16oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 8.95,
         "MSRP": 12.95,
         "QtyOnHand": 120,
@@ -71,7 +71,7 @@
     },
     {
         "ProductName": "Nalgene 48 oz Wide Mouth",
-        "GraphicName": "nalgene_48oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 10.95,
         "MSRP": 15.95,
         "QtyOnHand": 80,
@@ -81,7 +81,7 @@
     },
     {
         "ProductName": "Nalgene On The Fly 24 oz",
-        "GraphicName": "nalgene_onthefly_24oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 11.95,
         "MSRP": 17.95,
         "QtyOnHand": 90,
@@ -91,7 +91,7 @@
     },
     {
         "ProductName": "Nalgene MultiDrink 20 oz",
-        "GraphicName": "nalgene_multidrink_20oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 12.95,
         "MSRP": 18.95,
         "QtyOnHand": 110,
@@ -101,7 +101,7 @@
     },
     {
         "ProductName": "CamelBak Eddy+ 25 oz",
-        "GraphicName": "camelbak_eddy_25oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 12.95,
         "MSRP": 19.95,
         "QtyOnHand": 80,
@@ -111,7 +111,7 @@
     },
     {
         "ProductName": "CamelBak Chute Mag 32 oz",
-        "GraphicName": "camelbak_chute_32oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 14.95,
         "MSRP": 21.95,
         "QtyOnHand": 90,
@@ -121,7 +121,7 @@
     },
     {
         "ProductName": "CamelBak Podium 24 oz",
-        "GraphicName": "camelbak_podium_24oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 10.95,
         "MSRP": 15.95,
         "QtyOnHand": 100,
@@ -131,7 +131,7 @@
     },
     {
         "ProductName": "CamelBak Carry Cap 25 oz",
-        "GraphicName": "camelbak_carrycap_25oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 11.95,
         "MSRP": 17.95,
         "QtyOnHand": 70,
@@ -141,7 +141,7 @@
     },
     {
         "ProductName": "CamelBak Quick Stow Flask 17 oz",
-        "GraphicName": "camelbak_quickstow_17oz.jpg",
+        "GraphicName": "TEST",
         "CostPrice": 15.95,
         "MSRP": 22.95,
         "QtyOnHand": 60,
