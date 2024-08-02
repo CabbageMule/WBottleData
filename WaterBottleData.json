@@ -2,7 +2,7 @@
     {
         "PRODUCTID": "hydroflask32ozwidemouth1",
         "PRODUCTNAME": "Hydro Flask 32 oz Wide Mouth",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Hydro Flask 32 oz Wide Mouth.jpg",
         "COSTPRICE": "29.95",
         "MSRP": "39.95",
         "QTYONHAND": "100",
@@ -13,7 +13,7 @@
     {
         "PRODUCTID": "hydroflask21ozstandardmouth2",
         "PRODUCTNAME": "Hydro Flask 21 oz Standard Mouth",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Hydro Flask 21 oz Standard Mouth.jpg",
         "COSTPRICE": "25.95",
         "MSRP": "35.95",
         "QTYONHAND": "150",
@@ -35,7 +35,7 @@
     {
         "PRODUCTID": "hydroflask12ozkidsbottle4",
         "PRODUCTNAME": "Hydro Flask 12 oz Kids Bottle",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Hydro Flask 12 oz Kids Bottle.jpg",
         "COSTPRICE": "22.95",
         "MSRP": "32.95",
         "QTYONHAND": "60",
@@ -46,7 +46,7 @@
     {
         "PRODUCTID": "hydroflask18ozstandardmouth5",
         "PRODUCTNAME": "Hydro Flask 18 oz Standard Mouth",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Hydro Flask 18 oz Standard Mouth.jpg",
         "COSTPRICE": "27.95",
         "MSRP": "37.95",
         "QTYONHAND": "120",
@@ -68,7 +68,7 @@
     {
         "PRODUCTID": "nalgene16oznarrowmouth7",
         "PRODUCTNAME": "Nalgene 16 oz Narrow Mouth",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Nalgene 16 oz Narrow Mouth.jpg",
         "COSTPRICE": "8.95",
         "MSRP": "12.95",
         "QTYONHAND": "120",
@@ -79,7 +79,7 @@
     {
         "PRODUCTID": "nalgene48ozwidemouth8",
         "PRODUCTNAME": "Nalgene 48 oz Wide Mouth",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Nalgene 48 oz Wide Mouth.jpg",
         "COSTPRICE": "10.95",
         "MSRP": "15.95",
         "QTYONHAND": "80",
@@ -90,7 +90,7 @@
     {
         "PRODUCTID": "nalgeneonthefly24oz9",
         "PRODUCTNAME": "Nalgene On The Fly 24 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Nalgene On The Fly 24 oz.jpg",
         "COSTPRICE": "11.95",
         "MSRP": "17.95",
         "QTYONHAND": "90",
@@ -101,7 +101,7 @@
     {
         "PRODUCTID": "nalgenemultidrink20oz10",
         "PRODUCTNAME": "Nalgene MultiDrink 20 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "Nalgene MultiDrink 20 oz.jpg",
         "COSTPRICE": "12.95",
         "MSRP": "18.95",
         "QTYONHAND": "110",
@@ -112,7 +112,7 @@
     {
         "PRODUCTID": "camelbakeddy25oz11",
         "PRODUCTNAME": "CamelBak Eddy+ 25 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "CamelBak Eddy+ 25 oz.jpg",
         "COSTPRICE": "12.95",
         "MSRP": "19.95",
         "QTYONHAND": "80",
@@ -123,7 +123,7 @@
     {
         "PRODUCTID": "camelbakchutemag32oz12",
         "PRODUCTNAME": "CamelBak Chute Mag 32 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "CamelBak Chute Mag 32 oz.jpg",
         "COSTPRICE": "14.95",
         "MSRP": "21.95",
         "QTYONHAND": "90",
@@ -134,7 +134,7 @@
     {
         "PRODUCTID": "camelbakpodium24oz13",
         "PRODUCTNAME": "CamelBak Podium 24 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "CamelBak Podium 24 oz.jpg",
         "COSTPRICE": "10.95",
         "MSRP": "15.95",
         "QTYONHAND": "100",
@@ -145,12 +145,24 @@
     {
         "PRODUCTID": "camelbakcarrycap25oz14",
         "PRODUCTNAME": "CamelBak Carry Cap 25 oz",
-        "GRAPHICNAME": "TEST",
+        "GRAPHICNAME": "CamelBak Carry Cap 25 oz.jpg",
         "COSTPRICE": "11.95",
         "MSRP": "17.95",
         "QTYONHAND": "70",
         "QTYONBACKORDER": "30",
         "DESCRIPTION": "Durable water bottle with a carry cap for easy transport.",
         "BRAND": "CamelBak"
-    }
+    },
+    {
+    "PRODUCTID": "camelbakfitcap25oz17",
+    "PRODUCTNAME": "CamelBak Fit Cap 25 oz",
+    "GRAPHICNAME": "CamelBak Fit Cap 25 oz.jpg",
+    "COSTPRICE": "13.00",
+    "MSRP": "20.00",
+    "QTYONHAND": "50",
+    "QTYONBACKORDER": "10",
+    "DESCRIPTION": "Insulated stainless steel water bottle with a snug fit cap and nesting handle for easy carrying.",
+    "BRAND": "CamelBak"
+}
+
 ]
